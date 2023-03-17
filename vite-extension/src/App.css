@@ -1,0 +1,47 @@
+.popup-container {
+  background-color: #ed5332;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  width: 400px;
+  padding: 20px;
+  text-align: left;
+}
+
+.innerDiv {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin: 10px;
+}
+
+.title {
+  color: #fcb30b;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+p {
+  color: #555;
+  font-size: 17px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.feature-list {
+  list-style: none;
+  padding: 0;
+}
+
+.feature-item {
+  color: #333;
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.feature-item:before {
+  content: '✔';
+  color: #fcb30b;
+  margin-right: 10px;
+}
