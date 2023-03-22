@@ -2,12 +2,17 @@
     "manifest_version": 3,
     "name": "OpenSauced GitHub Extension",
     "version": "1.0.0",
+    "description": "This extension helps to find if a GitHub user has a OpenSauced account or not",
     "action": {
         "default_popup": "index.html",
         "default_icon": "src/OpenSauced.png"
-    },"icons": {
+    },
+    "icons": {
         "128": "src/OpenSauced.png"
     },
+    "permissions": [
+        "storage"
+    ],
     "content_scripts": [
         {
             "matches": ["*://github.com/*"],
