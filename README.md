@@ -21,7 +21,7 @@ To install the extension, follow these steps:
 
 ## Technical details
 
-- This is a vite-react powered browser Extension made with the [CRXJS](https://crxjs.dev/vite-plugin/getting-started/vanilla-js/create-project). CRXJS makes it easy to set up a Chrome Extension project with a modern development experience. 
+- This is a vite-react powered browser Extension made with the [CRXJS](https://crxjs.dev/vite-plugin/getting-started/vanilla-js/create-project) guidance. CRXJS makes it easy to set up a Chrome Extension project with a modern development experience. 
 
 - 
 
