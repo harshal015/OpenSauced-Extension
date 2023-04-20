@@ -12,7 +12,7 @@ This project is my basic version for [OpenSauced Extension](https://github.com/o
 
 ## Installation
 
-To install the extension, follow these steps:
+*To install the extension, follow these steps:*
 
 1. Clone the repository or download the ZIP file
 2. cd over to vite-extension folder and run the command `npm install` 
@@ -27,17 +27,19 @@ To install the extension, follow these steps:
 
 - The OpenSauced Extension incorporates multiple APIs from OpenSauced and implements API optimization techniques such as debouncing, memoization, caching etc to ensure a smooth and efficient user experience. Additionally, the extension features comprehensive error and loading states to handle a variety of scenarios.
 
-- To ensure that the extension always provides up-to-date information, it runs on hash change and utilizes Chrome's sync storage to transfer data seamlessly between the content script and popup script. When user tried to add their highlight, it does the initial validation with the help of regex for a valid GitHub pull request..
+- To ensure that the extension always provides up-to-date information, it runs on hash change and utilizes Chrome's sync storage to transfer data seamlessly between the content script and popup script. When user tries to add their highlight, it does the initial validation with the help of regex for a valid GitHub pull request..
 
 ## Usage
 
 Once the extension is installed, you can use it on any user's GitHub profile page. Simply add the extension to the browser and it'll do its job, adding the 'View on OpenSauced' button.. you can select the desired feature from the popup window.
 
+**Find the demo video to go through..**
+
+https://user-images.githubusercontent.com/92778686/233292261-976bbb87-b140-43f8-9b60-b3c444dffaf0.mp4
 
 
-https://user-images.githubusercontent.com/92778686/233290923-f79369fe-a922-447e-8789-ff1ffcdcf5b2.mp4
 
-*highlight functionality after 
+**highlight feature after 0:21*
 
 ## Contributing
 
