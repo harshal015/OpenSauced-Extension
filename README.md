@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/92778686/233292261-976bbb87-b140-43f8-
 
 ## Contributing
 
-This is not the official OpenSauced's Extension, just a personal project. If you like to add some new features to it, You're always welcome. To contribute, please fork the repository and submit a pull request.
+This is not the official OpenSauced's Extension, just a personal project. If you have some changes to suggest or new features ideas to add, You're always welcome. To contribute, please fork the repository and submit a pull request.
 
 ## Acknowledgements
 
